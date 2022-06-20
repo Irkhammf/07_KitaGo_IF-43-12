@@ -2,7 +2,7 @@
 
 namespace App\Http\Controllers;
 
-use Illuminate\Http\Request;
+use Illuminate\Http\Request; /*memanggil libarary */
 use Illuminate\Support\Facades\Session;
 use App\Models\Refund;
 use App\Models\Booking;
